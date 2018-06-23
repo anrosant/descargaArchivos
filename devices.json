@@ -1,0 +1,7 @@
+HTTP/1.1 200 OK
+Date: Sat, 23 Jun 2018 22:51:01 GMT
+Content-Type: application/json; charset=utf-8
+Server: Kestrel
+Transfer-Encoding: chunked
+
+"[{\"DeviceId\":\"5b20121c8440d43975872ff5\",\"Id\":1,\"Name\":\"Sector 1\",\"Latitude\":\"-2.1526917\",\"Longitude\":\"-79.9642533\",\"AndroidVersion\":\"2.3.6\",\"ServicesVersion\":\"0.0.1\"},{\"DeviceId\":\"5b2012248440d43975872ff7\",\"Id\":3,\"Name\":\"Sector 3\",\"Latitude\":\"-2.1530517\",\"Longitude\":\"-79.9638467\",\"AndroidVersion\":\"2.3.6\",\"ServicesVersion\":\"0.0.1\"},{\"DeviceId\":\"5b2012218440d43975872ff6\",\"Id\":2,\"Name\":\"Sector 2\",\"Latitude\":\"-2.1524433\",\"Longitude\":\"-79.9638317\",\"AndroidVersion\":\"2.3.6\",\"ServicesVersion\":\"0.0.1\"}]"
